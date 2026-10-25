@@ -22,7 +22,7 @@ This educational cybersecurity project trains a Scikit-learn Random Forest class
 - `ML_Network_Intrusion_Detector.ipynb` — notebook implementation and visual evaluation.
 - `ML_Network_Intrusion_Detector.py` — script version of the core model.
 - `requirements.txt` — Python dependencies.
-- `YourName_ProjectReport.docx` — project report template/documentation.
+- `ProjectReport.docx` — project report template/documentation.
 
 ## Setup and run
 1. Install Python 3.10 or later.
