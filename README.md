@@ -20,7 +20,7 @@ This educational cybersecurity project trains a Scikit-learn Random Forest class
 
 ## Files
 - `YourName_ML_Network_Intrusion_Detector.ipynb` — notebook implementation and visual evaluation.
-- `YourName_ML_Network_Intrusion_Detector.py` — script version of the core model.
+- `ML_Network_Intrusion_Detector.py` — script version of the core model.
 - `requirements.txt` — Python dependencies.
 - `YourName_ProjectReport.docx` — project report template/documentation.
 
@@ -43,7 +43,7 @@ This educational cybersecurity project trains a Scikit-learn Random Forest class
    Or run the script:
 
    ```bash
-   python YourName_ML_Network_Intrusion_Detector.py
+   python ML_Network_Intrusion_Detector.py
    ```
 
 The notebook/script expects CSV files with a `Label` column. It maps `BENIGN` to 0 and other labels to 1. It uses up to 150,000 randomly sampled rows to keep training manageable; change `MAX_ROWS` if your hardware permits.
